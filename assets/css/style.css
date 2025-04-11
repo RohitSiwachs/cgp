@@ -9,6 +9,10 @@
   list-style: none;
 }
 
+body {
+  font-family: "Tomorrow", sans-serif;
+}
+
 .tomorrow-family {
   font-family: "Tomorrow", sans-serif;
 }
